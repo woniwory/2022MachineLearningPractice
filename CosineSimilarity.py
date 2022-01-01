@@ -173,7 +173,6 @@ while True:
 
     elif choice == 3: # 제작자 및 module 정보 출력
         print()
-        print("제작자 : 심수민, 이승민, 이창수, 정성원")
         print("konlpy          0.5.2")
         print("numpy           1.19.1")
         print("requests        2.25.0")
